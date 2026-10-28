@@ -20,6 +20,20 @@
   year: 2026
   link: https://doi.org/10.1016/j.cels.2026.101702
   pubID: ADiversifiedConsortionOfEngineeredBiosensorsEnablesMultiTargetQuantification
+- title: "BudFinder: A Masked Auto-Encoder vision transformer framework for yeast budding detection and lifespan quantification"
+  journal: "PLOS Computational Biology"
+  authors:
+  - Phuc Nguyen
+  - Zahra Mousavi Karimi
+  - Adrian Layer
+  - Markus B. Wan
+  - Hetian Su
+  - Jeff Hasty
+  - Nan Hao
+  publication_date: '2026-05-18'
+  year: 2026
+  link: https://doi.org/10.1371/journal.pcbi.1013700
+  pubID: BudfinderAMaskedAutoEncoderVisionTransformerFrameworkForYeastBuddingDetection
 - title: Rational engineering of combinatorial bacterial therapies for cancer
   journal: Genome Biology
   authors:
